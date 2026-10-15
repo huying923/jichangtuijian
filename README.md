@@ -8,7 +8,7 @@
 | --- | --- | --- |
 |🌱 **便宜量大**|**[扬帆云](https://github.com/huying923/jichangtuijian#yafa)**|19元/月120GB；需要精品专线再看29元/月200GB|
 |🚀 **高速带宽**|**[EWCloud](https://github.com/huying923/jichangtuijian#ewan)**|24元/月100GB，IPLC企业级专线，年付6.9折|
-|🕊️ **按量计费**|**[优信云](https://github.com/huying923/jichangtuijian#uxin)**|提供永久有效不限设备部限时流量包，机场折扣活动多|
+|🕊️ **按量计费**|**[优信云](https://github.com/huying923/jichangtuijian#uxin)**|提供永久有效不限设备不限时流量包，机场折扣活动多|
 
 ## 六家推荐顺序，一眼看完
 
