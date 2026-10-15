@@ -34,7 +34,8 @@
 把月费控制在十元以内，可以先看西游云的 **9元/月、120GB轻量型**。希望流量更多、设备更宽裕，再比较 **16元/月、200GB标准型**，资料标注精品专线、原生IP和家宽IP。
 
 [![注册扬帆云，19元起 · 查看套餐 →]
-(https://github.com/user-attachments/assets/e0de8cb9-77ae-46fd-8e38-e7a0b804f945)](https://affg.cc/yafa)
+(https://img.shields.io/badge/%E6%89%AC%E5%B8%86%E4%BA%91-%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%EF%BC%8C%E6%9F%A5%E7%9C%8B%E5%A5%97%E9%A4%90%E2%86%92-brightgreen?style=flat&labelColor=%231DA456
+)](https://affg.cc/yafa)
 
 **日常怎么选：** 先用9元月付档确认本地体验；需要精品专线或更多设备，再看16元标准型。流媒体和ChatGPT、Gemini支持来自套餐页面标注，购买前确认自己的常用节点。
 
